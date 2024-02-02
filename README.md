@@ -1,4 +1,4 @@
-# Maji_ndogo.
+# Access to drinking water.
 ---
 ## Table of Contents
 
